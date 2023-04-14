@@ -2,4 +2,4 @@ pandas
 pickle-mixin 
 pickleshare 
 pathlib
-sklearn
+scikit-learn
